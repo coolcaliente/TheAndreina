@@ -5547,7 +5547,7 @@ i {
 }
 
 .icon-lg i {
-  font-size: 20px;
+  font-size: 40px;
 }
 
 .icon-sm i {
@@ -10785,4 +10785,9 @@ body.loaded:after {
 .video-box:hover img {
   -webkit-transform: scale(1.02);
   transform: scale(1.02);
+}
+
+
+.social {
+  font-size: 30px;
 }
