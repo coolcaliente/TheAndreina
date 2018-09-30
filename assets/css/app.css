@@ -162,7 +162,7 @@
 }
 
 .font-family-playfair {
-  font-family: "Playfair Display", serif;
+  font-family: "Anton", serif;
 }
 
 .font-weight-thin {
@@ -5399,8 +5399,11 @@ h3 {
 }
 
 h4 {
-  font-size: 24px;
+  font-size: 26px;
   line-height: 40px;
+  font-family: "Anton"; 
+  letter-spacing: .5px;
+
 }
 
 h5 {
@@ -5440,9 +5443,10 @@ p {
 
 .heading-uppercase {
   font-weight: 400;
-  font-size: 13px;
+  font-size: 15px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
+  font-family: "Anton";
 }
 
 .uppercase {
